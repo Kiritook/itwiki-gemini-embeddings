@@ -1,0 +1,5 @@
+google-genai
+datasets
+pyarrow
+tenacity
+huggingface_hub
